@@ -1,0 +1,36 @@
+{
+  "name": "backend-stand-alone",
+  "version": "1.0.0",
+  "description": "new backend for shopify -api, ba",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github/nishant-kumar.git"
+  },
+  "keywords": [
+    "shopify",
+    "backend",
+    "remiox",
+    "react",
+    "node",
+    "backedn"
+  ],
+  "author": "nishant kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github/nishant-kumar/issues"
+  },
+  "homepage": "https://github.com/github/nishant-kumar#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "@ngrok/ngrok": "^1.4.1",
+    "@shopify/shopify-api": "^11.4.1",
+    "express": "^4.21.0",
+    "ngrok": "^5.0.0-beta.2"
+  }
+}
